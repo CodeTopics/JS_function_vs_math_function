@@ -1,1 +1,1 @@
-# JS_function_vs_math_function
+#### A look at how we can relate function in math with JS functions.
